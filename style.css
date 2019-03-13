@@ -1,0 +1,36 @@
+.nav-Link{
+      opacity:0.7;
+}
+.nav-link:hover{
+    opacity: 1;
+    background- color:  #eee !important;
+}
+header {
+    /*sizing of the element*/
+    height:400px;
+    width:100%;
+    /*set and adjust background image*/
+    background-image: url()
+    background-size: cover;
+    /*center the text*/
+    text-align:center;
+    font-family:'Roboto slab', serif;
+}
+headrer p {
+    /*add the font style property here*/
+    font-style: italic;
+}
+  .services i {
+      height:80px;
+      width:80px;
+      color:white;
+      background:blue;
+      padding: 25px 20px;
+      font-size:30px
+      border-radius:50%;
+}
+
+ .services h1{
+     
+}
+      
