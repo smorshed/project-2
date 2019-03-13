@@ -3,20 +3,20 @@
 }
 .nav-link:hover{
     opacity: 1;
-    background- color:  #eee !important;
+    background-color:  #eee !important;
 }
 header {
     /*sizing of the element*/
     height:400px;
     width:100%;
     /*set and adjust background image*/
-    background-image: url()
+    background-image: url();
     background-size: cover;
     /*center the text*/
     text-align:center;
-    font-family:'Roboto slab', serif;
+    font-family:"Roboto slab", serif;
 }
-headrer p {
+header p {
     /*add the font style property here*/
     font-style: italic;
 }
@@ -26,11 +26,9 @@ headrer p {
       color:white;
       background:blue;
       padding: 25px 20px;
-      font-size:30px
+      font-size:30px;
       border-radius:50%;
+      text-align:center;
 }
 
- .services h1{
-     
-}
-      
+  
